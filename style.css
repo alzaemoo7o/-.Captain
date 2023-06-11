@@ -1,0 +1,31 @@
+body {
+    font-size: 15pt;
+}
+body {
+  background-image: url("kon.jpg");
+}
+  
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  color: burlywood;
+  font-family: verdana;
+  font-size: 20px;
+}
+
+p1 {
+  color: white;
+  text-align: center;
+}
+
+h2 {
+  color: white;
+  text-align: center;
+}
